@@ -1,2 +1,2 @@
-# Machine-Learning
- Introduction to Machine Learning with Python
+# About
+This repository serves as a platform for honing my machine learning and natural language processing skills through hands-on practice and experimentation. It includes a collection of Jupyter notebooks, code snippets, and datasets that cover a range of topics, including supervised and unsupervised learning, feature engineering, and natural language understanding. Whether you're a beginner or an experienced practitioner, this repository is a valuable resource for anyone looking to improve their machine learning and NLP proficiency.
